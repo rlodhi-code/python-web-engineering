@@ -1,4 +1,3 @@
-```markdown
 # Python Web Engineering
 
 A structured repository focused on building modern web applications using Python.  
