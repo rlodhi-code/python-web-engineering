@@ -112,9 +112,9 @@ New modules and mini-projects will be added progressively.
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💻 Author - Rizwan Lodhi
 
 Learning-focused repository dedicated to mastering Python web engineering.
-```
+
 
 ---
