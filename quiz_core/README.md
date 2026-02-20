@@ -8,8 +8,7 @@ This project is a lightweight, modular Python application that generates interac
 
 The application retrieves trivia questions from:
 
-**https://opentdb.com/api.php**
-Example: https://opentdb.com/api.php?amount=5&type=boolean
+**https://opentdb.com/api.php?amount=5&type=boolean**
 
 It then builds a quiz experience using a small collection of Python modules that handle:
 
