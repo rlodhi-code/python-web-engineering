@@ -52,7 +52,8 @@ Handles the quiz flow, including:
 - Updating the score  
 - Determining when the quiz ends  
 
-It also safely decodes HTML‑encoded text returned by the API(an example would be https://www.freeformatter.com/html-escape.html).
+It also safely decodes HTML‑encoded text returned by the API. 
+**https://www.freeformatter.com/html-escape.html)**
 
 ### **4. User Interface**
 A separate UI module (e.g., Tkinter) presents questions, captures user input, and displays feedback.
